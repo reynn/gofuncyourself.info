@@ -1,4 +1,4 @@
-baseURL = "http://gofuncyourself.info/"
+baseURL = "https://gofuncyourself.info/"
 languageCode = "en-us"
 title = "Go Func Yourself"
 theme = "hyde"

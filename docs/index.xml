@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go Func Yourself</title>
-    <link>http://gofuncyourself.info/</link>
+    <link>https://gofuncyourself.info/</link>
     <description>Recent content on Go Func Yourself</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2018 22:00:53 -0700</lastBuildDate>
     
-	<atom:link href="http://gofuncyourself.info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gofuncyourself.info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Init</title>
-      <link>http://gofuncyourself.info/posts/init/</link>
+      <link>https://gofuncyourself.info/posts/init/</link>
       <pubDate>Sun, 22 Jul 2018 22:00:53 -0700</pubDate>
       
-      <guid>http://gofuncyourself.info/posts/init/</guid>
+      <guid>https://gofuncyourself.info/posts/init/</guid>
       <description>This will be a Golang focused blog</description>
     </item>
     
