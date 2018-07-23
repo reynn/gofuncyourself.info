@@ -1,0 +1,8 @@
+baseURL = "http://gofuncyourself.info/"
+languageCode = "en-us"
+title = "Go Func Yourself"
+theme = "hyde"
+publishDir = "docs"
+
+[params]
+    themeColor = "theme-base-0d"
